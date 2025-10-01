@@ -92,7 +92,7 @@ Clickbait-Detector/
 │   └── clickbait.csv
 │
 ├── images/                   # Screenshots or GIFs for README
-│   └── clickbait_app.png
+│   └── image.png
 │
 ├── models/                   # Saved models and vectorizers
 │   ├── clickbait_model.pkl
